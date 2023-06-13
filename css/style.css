@@ -197,8 +197,14 @@ margin-top: 0px;
     font-size: 18px;
     line-height: 21px;
     text-align: center;
+    color: black;
 
 }
+
+.recherche::placeholder{
+    color: black;
+}
+
 
 input[type="search"]::-webkit-search-cancel-button { display: none; }
 
